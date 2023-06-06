@@ -1,0 +1,4 @@
+C:\Users\Adrian\source\repos\HuntingDB\HuntingDB\x64\Release\HuntingDB.vcxproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\HuntingDB\HuntingDB\x64\Release\HuntingDB.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\HuntingDB\HuntingDB\x64\Release\HuntingDB.MainForm.resources
+C:\Users\Adrian\source\repos\HuntingDB\HuntingDB\x64\Release\HuntingDB.vcxproj.GenerateResource.cache
